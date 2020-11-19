@@ -7,4 +7,8 @@
 
 
 
-논문'LSTM-BASED DEEP LEARNING MODELS FOR NONFACTOID ANSWER SELECTION'을 참고하여 LSTM을 이용하여 Question and answer model을 만들었습니다.
+논문'LSTM-BASED DEEP LEARNING MODELS FOR NONFACTOID ANSWER SELECTION'을 참고하여 
+
+
+
+LSTM을 이용하여 Question and answer model을 만들었습니다.
